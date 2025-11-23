@@ -1,4 +1,4 @@
-# 2025 Summer Vacation Suwon University Artificial Intelligence Study Competition 2nd Round Recruitment
+# 2025 Summer Vacation Artificial Intelligence Study Competition 2nd Round Recruitment
 
 ---
 
